@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/2121022/profile-assets/main/tumblr_moiy1atz0P1qzqnxxo1_500.gif" alt="Michiko Malandro" width="500"/>
+  <img src="tumblr_moiy1atz0P1qzqnxxo1_500.gif" alt="Michiko Malandro" width="500"/>
 </p>
 
 ---
